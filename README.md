@@ -1,3 +1,6 @@
+NBU Gruppe 6 eget childtheme
+
+fra templaten:
 OceanWP Child Theme
 =================
 
